@@ -1,0 +1,2288 @@
+[
+  {
+    "provider": "toto",
+    "provider_event_id": "9201958",
+    "league": "eredivisie",
+    "country": "Netherlands",
+    "kickoff_utc": "2025-11-22T15:30:00Z",
+    "home": "NAC Breda",
+    "away": "PSV",
+    "markets": {
+      "btts": {
+        "yes": 3.45,
+        "no": 1.27,
+        "margin": 7.726
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:04.426114Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9201954",
+    "league": "eredivisie",
+    "country": "Netherlands",
+    "kickoff_utc": "2025-11-22T17:45:00Z",
+    "home": "Ajax",
+    "away": "Excelsior",
+    "markets": {
+      "btts": {
+        "yes": 3.55,
+        "no": 1.25,
+        "margin": 8.169
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:04.697870Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9201957",
+    "league": "eredivisie",
+    "country": "Netherlands",
+    "kickoff_utc": "2025-11-22T17:45:00Z",
+    "home": "FC Volendam",
+    "away": "FC Twente",
+    "markets": {
+      "btts": {
+        "yes": 3.6,
+        "no": 1.25,
+        "margin": 7.778
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:04.956485Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9201956",
+    "league": "eredivisie",
+    "country": "Netherlands",
+    "kickoff_utc": "2025-11-22T20:00:00Z",
+    "home": "Heracles Almelo",
+    "away": "Go Ahead Eagles",
+    "markets": {
+      "btts": {
+        "yes": 1.49,
+        "no": 2.44,
+        "margin": 8.098
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:05.292383Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9201955",
+    "league": "eredivisie",
+    "country": "Netherlands",
+    "kickoff_utc": "2025-11-22T20:00:00Z",
+    "home": "Sparta Rotterdam",
+    "away": "Fortuna Sittard",
+    "markets": {
+      "btts": {
+        "yes": 3.8,
+        "no": 1.22,
+        "margin": 8.283
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:06.349627Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9211869",
+    "league": "eredivisie",
+    "country": "Netherlands",
+    "kickoff_utc": "2025-11-23T11:15:00Z",
+    "home": "sc Heerenveen",
+    "away": "AZ",
+    "markets": {
+      "btts": {
+        "yes": 2.6,
+        "no": 1.43,
+        "margin": 8.392
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:06.622838Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9211867",
+    "league": "eredivisie",
+    "country": "Netherlands",
+    "kickoff_utc": "2025-11-23T13:30:00Z",
+    "home": "Feyenoord",
+    "away": "N.E.C. Nijmegen",
+    "markets": {
+      "btts": {
+        "yes": 3.35,
+        "no": 1.28,
+        "margin": 7.976
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:06.915753Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9211871",
+    "league": "eredivisie",
+    "country": "Netherlands",
+    "kickoff_utc": "2025-11-23T13:30:00Z",
+    "home": "Telstar",
+    "away": "FC Utrecht",
+    "markets": {
+      "btts": {
+        "yes": 3.8,
+        "no": 1.23,
+        "margin": 7.617
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:07.204329Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9211870",
+    "league": "eredivisie",
+    "country": "Netherlands",
+    "kickoff_utc": "2025-11-23T15:45:00Z",
+    "home": "FC Groningen",
+    "away": "PEC Zwolle",
+    "markets": {
+      "btts": {
+        "yes": 4.25,
+        "no": 1.19,
+        "margin": 7.563
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:07.482651Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9262442",
+    "league": "eredivisie",
+    "country": "Netherlands",
+    "kickoff_utc": "2025-11-28T19:00:00Z",
+    "home": "PEC Zwolle",
+    "away": "sc Heerenveen",
+    "markets": {
+      "btts": {
+        "yes": 2.65,
+        "no": 1.42,
+        "margin": 8.158
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:07.763674Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9272413",
+    "league": "eredivisie",
+    "country": "Netherlands",
+    "kickoff_utc": "2025-11-29T15:30:00Z",
+    "home": "Excelsior",
+    "away": "NAC Breda",
+    "markets": {
+      "btts": {
+        "yes": 3.75,
+        "no": 1.23,
+        "margin": 7.967
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:08.028580Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9272416",
+    "league": "eredivisie",
+    "country": "Netherlands",
+    "kickoff_utc": "2025-11-29T17:45:00Z",
+    "home": "Fortuna Sittard",
+    "away": "Heracles Almelo",
+    "markets": {
+      "btts": {
+        "yes": 2.85,
+        "no": 1.38,
+        "margin": 7.551
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:08.553766Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9272412",
+    "league": "eredivisie",
+    "country": "Netherlands",
+    "kickoff_utc": "2025-11-29T20:00:00Z",
+    "home": "N.E.C. Nijmegen",
+    "away": "Sparta Rotterdam",
+    "markets": {
+      "btts": {
+        "yes": 3.4,
+        "no": 1.27,
+        "margin": 8.152
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:08.816724Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9282227",
+    "league": "eredivisie",
+    "country": "Netherlands",
+    "kickoff_utc": "2025-11-30T11:15:00Z",
+    "home": "PSV",
+    "away": "FC Volendam",
+    "markets": {
+      "btts": {
+        "yes": 2.85,
+        "no": 1.37,
+        "margin": 8.08
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:09.082179Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9282223",
+    "league": "eredivisie",
+    "country": "Netherlands",
+    "kickoff_utc": "2025-11-30T13:30:00Z",
+    "home": "Go Ahead Eagles",
+    "away": "FC Utrecht",
+    "markets": {
+      "btts": {
+        "yes": 3.5,
+        "no": 1.26,
+        "margin": 7.937
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:09.356186Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9282225",
+    "league": "eredivisie",
+    "country": "Netherlands",
+    "kickoff_utc": "2025-11-30T13:30:00Z",
+    "home": "Telstar",
+    "away": "Feyenoord",
+    "markets": {
+      "btts": {
+        "yes": 3.7,
+        "no": 1.24,
+        "margin": 7.672
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:09.612095Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9282224",
+    "league": "eredivisie",
+    "country": "Netherlands",
+    "kickoff_utc": "2025-11-30T15:45:00Z",
+    "home": "FC Twente",
+    "away": "AZ",
+    "markets": {
+      "btts": {
+        "yes": 2.65,
+        "no": 1.42,
+        "margin": 8.158
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:09.870874Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9282226",
+    "league": "eredivisie",
+    "country": "Netherlands",
+    "kickoff_utc": "2025-11-30T19:00:00Z",
+    "home": "Ajax",
+    "away": "FC Groningen",
+    "markets": {
+      "btts": {
+        "yes": 3.95,
+        "no": 1.21,
+        "margin": 7.961
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:10.136045Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9538119",
+    "league": "keuken_kampioen_divisie",
+    "country": "Netherlands",
+    "kickoff_utc": "2025-11-21T19:00:00Z",
+    "home": "De Graafschap",
+    "away": "Helmond Sport",
+    "markets": {
+      "btts": {
+        "yes": 2.4,
+        "no": 1.51,
+        "margin": 7.892
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:10.491591Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9538118",
+    "league": "keuken_kampioen_divisie",
+    "country": "Netherlands",
+    "kickoff_utc": "2025-11-21T19:00:00Z",
+    "home": "FC Den Bosch",
+    "away": "Almere City FC",
+    "markets": {
+      "btts": {
+        "yes": 1.48,
+        "no": 2.47,
+        "margin": 8.053
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:10.759101Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9540295",
+    "league": "keuken_kampioen_divisie",
+    "country": "Netherlands",
+    "kickoff_utc": "2025-11-21T19:00:00Z",
+    "home": "Jong Ajax",
+    "away": "FC Eindhoven",
+    "markets": {
+      "btts": {
+        "yes": 1.49,
+        "no": 2.44,
+        "margin": 8.098
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:11.085004Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9538121",
+    "league": "keuken_kampioen_divisie",
+    "country": "Netherlands",
+    "kickoff_utc": "2025-11-21T19:00:00Z",
+    "home": "Jong PSV",
+    "away": "Jong FC Utrecht",
+    "markets": {
+      "btts": {
+        "yes": 1.4,
+        "no": 2.75,
+        "margin": 7.792
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:11.351154Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9538122",
+    "league": "keuken_kampioen_divisie",
+    "country": "Netherlands",
+    "kickoff_utc": "2025-11-21T19:00:00Z",
+    "home": "MVV",
+    "away": "Jong AZ",
+    "markets": {
+      "btts": {
+        "yes": 1.42,
+        "no": 2.65,
+        "margin": 8.158
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:11.614949Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9540296",
+    "league": "keuken_kampioen_divisie",
+    "country": "Netherlands",
+    "kickoff_utc": "2025-11-21T19:00:00Z",
+    "home": "SC Cambuur",
+    "away": "ADO Den Haag",
+    "markets": {
+      "btts": {
+        "yes": 1.51,
+        "no": 2.39,
+        "margin": 8.066
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:11.873114Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9538120",
+    "league": "keuken_kampioen_divisie",
+    "country": "Netherlands",
+    "kickoff_utc": "2025-11-21T19:00:00Z",
+    "home": "Top Oss",
+    "away": "RKC Waalwijk",
+    "markets": {
+      "btts": {
+        "yes": 2.7,
+        "no": 1.41,
+        "margin": 7.959
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:12.149872Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9540298",
+    "league": "keuken_kampioen_divisie",
+    "country": "Netherlands",
+    "kickoff_utc": "2025-11-21T19:00:00Z",
+    "home": "VVV Venlo",
+    "away": "Willem II",
+    "markets": {
+      "btts": {
+        "yes": 2.7,
+        "no": 1.41,
+        "margin": 7.959
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:12.925591Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9548222",
+    "league": "keuken_kampioen_divisie",
+    "country": "Netherlands",
+    "kickoff_utc": "2025-11-22T15:30:00Z",
+    "home": "FC Emmen",
+    "away": "Roda Jc Kerkrade",
+    "markets": {
+      "btts": {
+        "yes": 1.49,
+        "no": 2.44,
+        "margin": 8.098
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:13.187635Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9424540",
+    "league": "premier_league",
+    "country": "England",
+    "kickoff_utc": "2025-11-16T16:00:00Z",
+    "home": "HK Ardo Nitra",
+    "away": "HK Poprad",
+    "markets": {
+      "btts": {
+        "yes": 1.31,
+        "no": 3.15,
+        "margin": 8.082
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:14.265018Z",
+    "is_live": true
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9424112",
+    "league": "premier_league",
+    "country": "England",
+    "kickoff_utc": "2025-11-16T16:30:00Z",
+    "home": "HC Kosice",
+    "away": "HC Presov 07",
+    "markets": {
+      "btts": {
+        "yes": 1.26,
+        "no": 3.4,
+        "margin": 8.777
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:14.753873Z",
+    "is_live": true
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9151437",
+    "league": "premier_league",
+    "country": "England",
+    "kickoff_utc": "2025-11-16T17:00:00Z",
+    "home": "Budapest Jegkorong Akademia",
+    "away": "Ujpest Budapest",
+    "markets": {
+      "btts": {
+        "yes": 1.29,
+        "no": 3.15,
+        "margin": 9.265
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:15.003694Z",
+    "is_live": true
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9514519",
+    "league": "premier_league",
+    "country": "England",
+    "kickoff_utc": "2025-11-16T17:30:00Z",
+    "home": "Angers Ducs",
+    "away": "SG Cortina",
+    "markets": {
+      "btts": {
+        "yes": 1.14,
+        "no": 4.5,
+        "margin": 9.942
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:15.314869Z",
+    "is_live": true
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9140486",
+    "league": "premier_league",
+    "country": "England",
+    "kickoff_utc": "2025-11-16T18:00:00Z",
+    "home": "Eisbaren Berlin",
+    "away": "Lowen Frankfurt",
+    "markets": {
+      "btts": {
+        "yes": 1.11,
+        "no": 5.5,
+        "margin": 8.272
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:15.642682Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9523809",
+    "league": "premier_league",
+    "country": "England",
+    "kickoff_utc": "2025-11-16T18:00:00Z",
+    "home": "Guildford Flames",
+    "away": "Sheffield Steelers",
+    "markets": {
+      "btts": {
+        "yes": 1.06,
+        "no": 6.75,
+        "margin": 9.154
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:15.894184Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9358125",
+    "league": "premier_league",
+    "country": "England",
+    "kickoff_utc": "2025-11-16T20:00:00Z",
+    "home": "Hershey Bears",
+    "away": "Lehigh Valley Phantoms",
+    "markets": {
+      "btts": {
+        "yes": 1.1,
+        "no": 5.75,
+        "margin": 8.3
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:16.143473Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9493520",
+    "league": "premier_league",
+    "country": "England",
+    "kickoff_utc": "2025-11-16T20:05:00Z",
+    "home": "Providence Bruins",
+    "away": "Laval Rocket",
+    "markets": {
+      "btts": {
+        "yes": 1.12,
+        "no": 5.5,
+        "margin": 7.468
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:16.441196Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9358126",
+    "league": "premier_league",
+    "country": "England",
+    "kickoff_utc": "2025-11-16T21:00:00Z",
+    "home": "Chicago Wolves",
+    "away": "Cleveland Monsters",
+    "markets": {
+      "btts": {
+        "yes": 1.11,
+        "no": 5.75,
+        "margin": 7.481
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:16.719413Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9358127",
+    "league": "premier_league",
+    "country": "England",
+    "kickoff_utc": "2025-11-16T22:00:00Z",
+    "home": "Rockford Icehogs",
+    "away": "Texas Stars",
+    "markets": {
+      "btts": {
+        "yes": 1.1,
+        "no": 5.75,
+        "margin": 8.3
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:17.022591Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9318655",
+    "league": "premier_league",
+    "country": "England",
+    "kickoff_utc": "2025-11-16T22:05:00Z",
+    "home": "Tampa Bay Lightning",
+    "away": "Vancouver Canucks",
+    "markets": {
+      "btts": {
+        "yes": 1.06,
+        "no": 7.0,
+        "margin": 8.625
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:17.276845Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9318515",
+    "league": "premier_league",
+    "country": "England",
+    "kickoff_utc": "2025-11-16T23:00:00Z",
+    "home": "Minnesota Wild",
+    "away": "Vegas Golden Knights",
+    "markets": {
+      "btts": {
+        "yes": 1.06,
+        "no": 7.0,
+        "margin": 8.625
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:17.534196Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9318559",
+    "league": "premier_league",
+    "country": "England",
+    "kickoff_utc": "2025-11-17T00:05:00Z",
+    "home": "New York Rangers",
+    "away": "Detroit Red Wings",
+    "markets": {
+      "btts": {
+        "yes": 1.06,
+        "no": 6.75,
+        "margin": 9.154
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:17.806970Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9514496",
+    "league": "premier_league",
+    "country": "England",
+    "kickoff_utc": "2025-11-17T01:00:00Z",
+    "home": "Coachella Valley Firebirds",
+    "away": "Abbotsford Canucks",
+    "markets": {
+      "btts": {
+        "yes": 1.08,
+        "no": 6.5,
+        "margin": 7.977
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:18.069902Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9514486",
+    "league": "premier_league",
+    "country": "England",
+    "kickoff_utc": "2025-11-17T01:00:00Z",
+    "home": "Henderson Silver Knights",
+    "away": "Calgary Wranglers",
+    "markets": {
+      "btts": {
+        "yes": 1.08,
+        "no": 6.5,
+        "margin": 7.977
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:18.320780Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9318848",
+    "league": "premier_league",
+    "country": "England",
+    "kickoff_utc": "2025-11-17T02:00:00Z",
+    "home": "Colorado Avalanche",
+    "away": "New York Islanders",
+    "markets": {
+      "btts": {
+        "yes": 1.08,
+        "no": 6.75,
+        "margin": 7.407
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:18.588521Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9462764",
+    "league": "premier_league",
+    "country": "England",
+    "kickoff_utc": "2025-11-17T14:00:00Z",
+    "home": "HC Slavia Prague",
+    "away": "HC Rt Torax Poruba",
+    "markets": {
+      "btts": {
+        "yes": 1.11,
+        "no": 5.5,
+        "margin": 8.272
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:18.842731Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9462760",
+    "league": "premier_league",
+    "country": "England",
+    "kickoff_utc": "2025-11-17T15:00:00Z",
+    "home": "PSG Berani Zlin",
+    "away": "Tabor",
+    "markets": {
+      "btts": {
+        "yes": 1.11,
+        "no": 5.5,
+        "margin": 8.272
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:19.148846Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9462757",
+    "league": "premier_league",
+    "country": "England",
+    "kickoff_utc": "2025-11-17T15:30:00Z",
+    "home": "HC Dukla Jihlava",
+    "away": "Vhk Vsetin",
+    "markets": {
+      "btts": {
+        "yes": 1.11,
+        "no": 5.5,
+        "margin": 8.272
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:19.398069Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9462761",
+    "league": "premier_league",
+    "country": "England",
+    "kickoff_utc": "2025-11-17T16:00:00Z",
+    "home": "HC Banik Sokolov",
+    "away": "SC Kolin",
+    "markets": {
+      "btts": {
+        "yes": 1.12,
+        "no": 5.5,
+        "margin": 7.468
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:19.654965Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9462765",
+    "league": "premier_league",
+    "country": "England",
+    "kickoff_utc": "2025-11-17T16:00:00Z",
+    "home": "HC Dynamo Pardubice B",
+    "away": "HC Frydek Mistek",
+    "markets": {
+      "btts": {
+        "yes": 1.11,
+        "no": 5.5,
+        "margin": 8.272
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:19.910715Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9462774",
+    "league": "premier_league",
+    "country": "England",
+    "kickoff_utc": "2025-11-17T16:00:00Z",
+    "home": "HC Stadion Litomerice",
+    "away": "HC Zubr Prerov",
+    "markets": {
+      "btts": {
+        "yes": 1.12,
+        "no": 5.25,
+        "margin": 8.333
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:20.159310Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9462763",
+    "league": "premier_league",
+    "country": "England",
+    "kickoff_utc": "2025-11-17T16:00:00Z",
+    "home": "SK Horacka Slavia Trebic",
+    "away": "HC Chomutov",
+    "markets": {
+      "btts": {
+        "yes": 1.12,
+        "no": 5.25,
+        "margin": 8.333
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:20.411650Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9141700",
+    "league": "premier_league",
+    "country": "England",
+    "kickoff_utc": "2025-11-17T17:00:00Z",
+    "home": "HC Olomouc",
+    "away": "Mountfield HK",
+    "markets": {
+      "btts": {
+        "yes": 3.25,
+        "no": 1.29,
+        "margin": 8.289
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:20.672996Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9505004",
+    "league": "2_bundesliga",
+    "country": "Germany",
+    "kickoff_utc": "2025-11-16T16:00:00Z",
+    "home": "Elche Ilicitano",
+    "away": "RSD Alcala",
+    "markets": {
+      "btts": {
+        "yes": 2.9,
+        "no": 1.31,
+        "margin": 10.819
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:22.057235Z",
+    "is_live": true
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9507084",
+    "league": "2_bundesliga",
+    "country": "Germany",
+    "kickoff_utc": "2025-11-16T16:00:00Z",
+    "home": "Gimnastica Segoviana",
+    "away": "UP Langreo",
+    "markets": {
+      "btts": {
+        "yes": 6.25,
+        "no": 1.08,
+        "margin": 8.593
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:22.319967Z",
+    "is_live": true
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9511756",
+    "league": "2_bundesliga",
+    "country": "Germany",
+    "kickoff_utc": "2025-11-16T16:00:00Z",
+    "home": "Puente Genil FC",
+    "away": "CD Extremadura",
+    "markets": {
+      "btts": {
+        "yes": 6.0,
+        "no": 1.08,
+        "margin": 9.259
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:22.590136Z",
+    "is_live": true
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9506346",
+    "league": "2_bundesliga",
+    "country": "Germany",
+    "kickoff_utc": "2025-11-16T16:00:00Z",
+    "home": "Salamanca CF Uds",
+    "away": "Real Avila CF",
+    "markets": {
+      "btts": {
+        "yes": 4.25,
+        "no": 1.16,
+        "margin": 9.736
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:22.863772Z",
+    "is_live": true
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9511793",
+    "league": "2_bundesliga",
+    "country": "Germany",
+    "kickoff_utc": "2025-11-16T16:00:00Z",
+    "home": "SD Sarriana",
+    "away": "Burgos Promesas",
+    "markets": {
+      "btts": {
+        "yes": 3.0,
+        "no": 1.33,
+        "margin": 8.521
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:23.127059Z",
+    "is_live": true
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9507083",
+    "league": "2_bundesliga",
+    "country": "Germany",
+    "kickoff_utc": "2025-11-16T17:00:00Z",
+    "home": "CD Xerez",
+    "away": "CF Lorca Deportiva",
+    "markets": {
+      "btts": {
+        "yes": 5.25,
+        "no": 1.1,
+        "margin": 9.957
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:23.392275Z",
+    "is_live": true
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9507085",
+    "league": "2_bundesliga",
+    "country": "Germany",
+    "kickoff_utc": "2025-11-16T17:00:00Z",
+    "home": "Terrassa FC",
+    "away": "UE Sant Andreu",
+    "markets": {
+      "btts": {
+        "yes": 5.5,
+        "no": 1.1,
+        "margin": 9.091
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:23.672113Z",
+    "is_live": true
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9252816",
+    "league": "2_bundesliga",
+    "country": "Germany",
+    "kickoff_utc": "2025-11-16T17:30:00Z",
+    "home": "CD Mirandés",
+    "away": "CF Burgos",
+    "markets": {
+      "btts": {
+        "yes": 2.23,
+        "no": 1.58,
+        "margin": 8.134
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:23.944597Z",
+    "is_live": true
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9252813",
+    "league": "2_bundesliga",
+    "country": "Germany",
+    "kickoff_utc": "2025-11-16T17:30:00Z",
+    "home": "Cordoba CF",
+    "away": "Deportivo La Coruna",
+    "markets": {
+      "btts": {
+        "yes": 3.7,
+        "no": 1.23,
+        "margin": 8.328
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:24.214738Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9514105",
+    "league": "2_bundesliga",
+    "country": "Germany",
+    "kickoff_utc": "2025-11-16T17:30:00Z",
+    "home": "SD Eibar (V)",
+    "away": "RCD Espanyol Barcelona (V)",
+    "markets": {
+      "btts": {
+        "yes": 5.0,
+        "no": 1.11,
+        "margin": 10.09
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:24.494620Z",
+    "is_live": true
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9402888",
+    "league": "2_bundesliga",
+    "country": "Germany",
+    "kickoff_utc": "2025-11-16T17:45:00Z",
+    "home": "Racing Club De Ferrol",
+    "away": "Zamora CF",
+    "markets": {
+      "btts": {
+        "yes": 2.01,
+        "no": 1.66,
+        "margin": 9.992
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:24.763678Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9141271",
+    "league": "2_bundesliga",
+    "country": "Germany",
+    "kickoff_utc": "2025-11-16T20:00:00Z",
+    "home": "CE Europa",
+    "away": "FC Cartagena",
+    "markets": {
+      "btts": {
+        "yes": 3.65,
+        "no": 1.21,
+        "margin": 10.042
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:25.023318Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9252812",
+    "league": "2_bundesliga",
+    "country": "Germany",
+    "kickoff_utc": "2025-11-16T20:00:00Z",
+    "home": "Real Zaragoza",
+    "away": "Huesca",
+    "markets": {
+      "btts": {
+        "yes": 4.5,
+        "no": 1.17,
+        "margin": 7.692
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:25.287148Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9252815",
+    "league": "2_bundesliga",
+    "country": "Germany",
+    "kickoff_utc": "2025-11-17T19:30:00Z",
+    "home": "Cultural Leonesa",
+    "away": "Malaga",
+    "markets": {
+      "btts": {
+        "yes": 1.92,
+        "no": 1.79,
+        "margin": 7.949
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:25.554962Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9334728",
+    "league": "2_bundesliga",
+    "country": "Germany",
+    "kickoff_utc": "2025-11-21T19:30:00Z",
+    "home": "Las Palmas",
+    "away": "Albacete",
+    "markets": {
+      "btts": {
+        "yes": 4.75,
+        "no": 1.15,
+        "margin": 8.009
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:25.818484Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "8788715",
+    "league": "2_bundesliga",
+    "country": "Germany",
+    "kickoff_utc": "2025-11-21T20:00:00Z",
+    "home": "Valencia",
+    "away": "Levante",
+    "markets": {
+      "btts": {
+        "yes": 4.25,
+        "no": 1.18,
+        "margin": 8.275
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:26.091218Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "8788719",
+    "league": "2_bundesliga",
+    "country": "Germany",
+    "kickoff_utc": "2025-11-22T13:00:00Z",
+    "home": "Deportivo Alaves",
+    "away": "Celta De Vigo",
+    "markets": {
+      "btts": {
+        "yes": 5.0,
+        "no": 1.14,
+        "margin": 7.719
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:26.405812Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "8788718",
+    "league": "2_bundesliga",
+    "country": "Germany",
+    "kickoff_utc": "2025-11-22T15:15:00Z",
+    "home": "Barcelona",
+    "away": "Athletic Bilbao",
+    "markets": {
+      "btts": {
+        "yes": 3.1,
+        "no": 1.32,
+        "margin": 8.016
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:26.683151Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9116004",
+    "league": "2_bundesliga",
+    "country": "Germany",
+    "kickoff_utc": "2025-11-22T15:15:00Z",
+    "home": "FC Andorra",
+    "away": "CD Castellon",
+    "markets": {
+      "btts": {
+        "yes": 3.05,
+        "no": 1.33,
+        "margin": 7.975
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:26.951241Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9323829",
+    "league": "2_bundesliga",
+    "country": "Germany",
+    "kickoff_utc": "2025-11-22T17:30:00Z",
+    "home": "Leganes",
+    "away": "Almeria",
+    "markets": {
+      "btts": {
+        "yes": 3.45,
+        "no": 1.27,
+        "margin": 7.726
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:27.272724Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "8788714",
+    "league": "2_bundesliga",
+    "country": "Germany",
+    "kickoff_utc": "2025-11-22T17:30:00Z",
+    "home": "Osasuna",
+    "away": "Real Sociedad",
+    "markets": {
+      "btts": {
+        "yes": 1.92,
+        "no": 1.79,
+        "margin": 7.949
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:27.569272Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "8788705",
+    "league": "2_bundesliga",
+    "country": "Germany",
+    "kickoff_utc": "2025-11-22T20:00:00Z",
+    "home": "Villarreal",
+    "away": "Real Mallorca",
+    "markets": {
+      "btts": {
+        "yes": 3.45,
+        "no": 1.26,
+        "margin": 8.351
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:27.943129Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "8788707",
+    "league": "2_bundesliga",
+    "country": "Germany",
+    "kickoff_utc": "2025-11-23T13:00:00Z",
+    "home": "Real Oviedo",
+    "away": "Rayo Vallecano",
+    "markets": {
+      "btts": {
+        "yes": 1.89,
+        "no": 1.82,
+        "margin": 7.855
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:28.235015Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9323831",
+    "league": "2_bundesliga",
+    "country": "Germany",
+    "kickoff_utc": "2025-11-23T15:15:00Z",
+    "home": "Cadiz",
+    "away": "Cultural Leonesa",
+    "markets": {
+      "btts": {
+        "yes": 4.0,
+        "no": 1.21,
+        "margin": 7.645
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:28.502123Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "8788709",
+    "league": "2_bundesliga",
+    "country": "Germany",
+    "kickoff_utc": "2025-11-23T15:15:00Z",
+    "home": "Real Betis",
+    "away": "Girona",
+    "markets": {
+      "btts": {
+        "yes": 3.2,
+        "no": 1.3,
+        "margin": 8.173
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:28.789952Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "8788716",
+    "league": "2_bundesliga",
+    "country": "Germany",
+    "kickoff_utc": "2025-11-23T17:30:00Z",
+    "home": "Getafe CF",
+    "away": "Atlético Madrid",
+    "markets": {
+      "btts": {
+        "yes": 2.21,
+        "no": 1.6,
+        "margin": 7.749
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:29.073490Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "8788717",
+    "league": "2_bundesliga",
+    "country": "Germany",
+    "kickoff_utc": "2025-11-23T20:00:00Z",
+    "home": "CF Elche",
+    "away": "Real Madrid",
+    "markets": {
+      "btts": {
+        "yes": 3.15,
+        "no": 1.31,
+        "margin": 8.082
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:29.354862Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "8788706",
+    "league": "2_bundesliga",
+    "country": "Germany",
+    "kickoff_utc": "2025-11-24T20:00:00Z",
+    "home": "Espanyol",
+    "away": "Sevilla FC",
+    "markets": {
+      "btts": {
+        "yes": 3.7,
+        "no": 1.24,
+        "margin": 7.672
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:29.647839Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "8857880",
+    "league": "2_bundesliga",
+    "country": "Germany",
+    "kickoff_utc": "2025-11-28T20:00:00Z",
+    "home": "Getafe CF",
+    "away": "CF Elche",
+    "markets": {
+      "btts": {
+        "yes": 5.75,
+        "no": 1.1,
+        "margin": 8.3
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:29.930278Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "8857883",
+    "league": "2_bundesliga",
+    "country": "Germany",
+    "kickoff_utc": "2025-11-29T13:00:00Z",
+    "home": "Real Mallorca",
+    "away": "Osasuna",
+    "markets": {
+      "btts": {
+        "yes": 4.25,
+        "no": 1.19,
+        "margin": 7.563
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:30.196328Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "8857875",
+    "league": "2_bundesliga",
+    "country": "Germany",
+    "kickoff_utc": "2025-11-29T15:15:00Z",
+    "home": "Barcelona",
+    "away": "Deportivo Alaves",
+    "markets": {
+      "btts": {
+        "yes": 3.1,
+        "no": 1.32,
+        "margin": 8.016
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:30.460107Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "8857874",
+    "league": "2_bundesliga",
+    "country": "Germany",
+    "kickoff_utc": "2025-11-29T17:30:00Z",
+    "home": "Levante",
+    "away": "Athletic Bilbao",
+    "markets": {
+      "btts": {
+        "yes": 1.86,
+        "no": 1.84,
+        "margin": 8.111
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:30.727907Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "8857885",
+    "league": "2_bundesliga",
+    "country": "Germany",
+    "kickoff_utc": "2025-11-29T20:00:00Z",
+    "home": "Atlético Madrid",
+    "away": "Real Oviedo",
+    "markets": {
+      "btts": {
+        "yes": 4.25,
+        "no": 1.18,
+        "margin": 8.275
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:30.996587Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "8857884",
+    "league": "2_bundesliga",
+    "country": "Germany",
+    "kickoff_utc": "2025-11-30T13:00:00Z",
+    "home": "Real Sociedad",
+    "away": "Villarreal",
+    "markets": {
+      "btts": {
+        "yes": 4.0,
+        "no": 1.2,
+        "margin": 8.333
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:31.261139Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "8857882",
+    "league": "2_bundesliga",
+    "country": "Germany",
+    "kickoff_utc": "2025-11-30T15:15:00Z",
+    "home": "Sevilla FC",
+    "away": "Real Betis",
+    "markets": {
+      "btts": {
+        "yes": 1.73,
+        "no": 2.0,
+        "margin": 7.803
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:31.511746Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "8857877",
+    "league": "2_bundesliga",
+    "country": "Germany",
+    "kickoff_utc": "2025-11-30T17:30:00Z",
+    "home": "Celta De Vigo",
+    "away": "Espanyol",
+    "markets": {
+      "btts": {
+        "yes": 4.25,
+        "no": 1.18,
+        "margin": 8.275
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:31.777453Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "8857881",
+    "league": "2_bundesliga",
+    "country": "Germany",
+    "kickoff_utc": "2025-11-30T20:00:00Z",
+    "home": "Girona",
+    "away": "Real Madrid",
+    "markets": {
+      "btts": {
+        "yes": 1.6,
+        "no": 2.2,
+        "margin": 7.955
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:32.065939Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "8857876",
+    "league": "2_bundesliga",
+    "country": "Germany",
+    "kickoff_utc": "2025-12-01T20:00:00Z",
+    "home": "Rayo Vallecano",
+    "away": "Valencia",
+    "markets": {
+      "btts": {
+        "yes": 3.65,
+        "no": 1.24,
+        "margin": 8.042
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:32.338579Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9279569",
+    "league": "2_bundesliga",
+    "country": "Germany",
+    "kickoff_utc": "2025-12-02T20:00:00Z",
+    "home": "Barcelona",
+    "away": "Atlético Madrid",
+    "markets": {
+      "btts": {
+        "yes": 1.46,
+        "no": 2.53,
+        "margin": 8.019
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:32.597346Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9279570",
+    "league": "2_bundesliga",
+    "country": "Germany",
+    "kickoff_utc": "2025-12-03T18:00:00Z",
+    "home": "Athletic Bilbao",
+    "away": "Real Madrid",
+    "markets": {
+      "btts": {
+        "yes": 1.69,
+        "no": 2.04,
+        "margin": 8.191
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:32.862783Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9191254",
+    "league": "primeira_liga",
+    "country": "Portugal",
+    "kickoff_utc": "2025-11-21T17:30:00Z",
+    "home": "Hertha Bsc",
+    "away": "Eintracht Braunschweig",
+    "markets": {
+      "btts": {
+        "yes": 3.9,
+        "no": 1.21,
+        "margin": 8.286
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:33.993223Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9191252",
+    "league": "primeira_liga",
+    "country": "Portugal",
+    "kickoff_utc": "2025-11-21T17:30:00Z",
+    "home": "VfL Bochum",
+    "away": "Dynamo Dresden",
+    "markets": {
+      "btts": {
+        "yes": 2.85,
+        "no": 1.37,
+        "margin": 8.08
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:34.278972Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "8766651",
+    "league": "primeira_liga",
+    "country": "Portugal",
+    "kickoff_utc": "2025-11-21T18:00:00Z",
+    "home": "TSG 1899 Hoffenheim II",
+    "away": "MSV Duisburg",
+    "markets": {
+      "btts": {
+        "yes": 3.6,
+        "no": 1.25,
+        "margin": 7.778
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:34.551873Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9191253",
+    "league": "primeira_liga",
+    "country": "Portugal",
+    "kickoff_utc": "2025-11-21T19:30:00Z",
+    "home": "FSV Mainz",
+    "away": "TSG Hoffenheim",
+    "markets": {
+      "btts": {
+        "yes": 2.7,
+        "no": 1.41,
+        "margin": 7.959
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:34.826684Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9201058",
+    "league": "primeira_liga",
+    "country": "Portugal",
+    "kickoff_utc": "2025-11-22T12:00:00Z",
+    "home": "Fortuna Düsseldorf",
+    "away": "1. FC Magdeburg",
+    "markets": {
+      "btts": {
+        "yes": 1.49,
+        "no": 2.45,
+        "margin": 7.93
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:35.087366Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9201060",
+    "league": "primeira_liga",
+    "country": "Portugal",
+    "kickoff_utc": "2025-11-22T12:00:00Z",
+    "home": "SC Paderborn",
+    "away": "Hannover 96",
+    "markets": {
+      "btts": {
+        "yes": 1.54,
+        "no": 2.32,
+        "margin": 8.039
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:35.358429Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9201059",
+    "league": "primeira_liga",
+    "country": "Portugal",
+    "kickoff_utc": "2025-11-22T12:00:00Z",
+    "home": "SC Preussen Munster",
+    "away": "Schalke 04",
+    "markets": {
+      "btts": {
+        "yes": 4.25,
+        "no": 1.19,
+        "margin": 7.563
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:35.631160Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "8766654",
+    "league": "primeira_liga",
+    "country": "Portugal",
+    "kickoff_utc": "2025-11-22T13:00:00Z",
+    "home": "FC Viktoria Koln",
+    "away": "SC Verl",
+    "markets": {
+      "btts": {
+        "yes": 1.48,
+        "no": 2.47,
+        "margin": 8.053
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:35.893531Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "8766650",
+    "league": "primeira_liga",
+    "country": "Portugal",
+    "kickoff_utc": "2025-11-22T13:00:00Z",
+    "home": "Hansa Rostock",
+    "away": "1. FC Schweinfurt 05",
+    "markets": {
+      "btts": {
+        "yes": 3.15,
+        "no": 1.31,
+        "margin": 8.082
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:36.156805Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "8766652",
+    "league": "primeira_liga",
+    "country": "Portugal",
+    "kickoff_utc": "2025-11-22T13:00:00Z",
+    "home": "SV Waldhof Mannheim",
+    "away": "SV Wehen Wiesbaden",
+    "markets": {
+      "btts": {
+        "yes": 1.51,
+        "no": 2.39,
+        "margin": 8.066
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:36.421282Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "8766648",
+    "league": "primeira_liga",
+    "country": "Portugal",
+    "kickoff_utc": "2025-11-22T13:00:00Z",
+    "home": "TSV Alemannia Aachen",
+    "away": "SSV Jahn Regensburg",
+    "markets": {
+      "btts": {
+        "yes": 3.0,
+        "no": 1.34,
+        "margin": 7.96
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:36.694088Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "8766646",
+    "league": "primeira_liga",
+    "country": "Portugal",
+    "kickoff_utc": "2025-11-22T13:00:00Z",
+    "home": "TSV Havelse",
+    "away": "SSV Ulm 1846",
+    "markets": {
+      "btts": {
+        "yes": 3.35,
+        "no": 1.28,
+        "margin": 7.976
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:36.977176Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9201056",
+    "league": "primeira_liga",
+    "country": "Portugal",
+    "kickoff_utc": "2025-11-22T14:30:00Z",
+    "home": "1. FC Heidenheim 1846",
+    "away": "Borussia Mönchengladbach",
+    "markets": {
+      "btts": {
+        "yes": 3.65,
+        "no": 1.24,
+        "margin": 8.042
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:37.236937Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9201052",
+    "league": "primeira_liga",
+    "country": "Portugal",
+    "kickoff_utc": "2025-11-22T14:30:00Z",
+    "home": "Bayern München",
+    "away": "SC Freiburg",
+    "markets": {
+      "btts": {
+        "yes": 3.15,
+        "no": 1.31,
+        "margin": 8.082
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:37.511070Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9201054",
+    "league": "primeira_liga",
+    "country": "Portugal",
+    "kickoff_utc": "2025-11-22T14:30:00Z",
+    "home": "Borussia Dortmund",
+    "away": "VfB Stuttgart",
+    "markets": {
+      "btts": {
+        "yes": 3.4,
+        "no": 1.27,
+        "margin": 8.152
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:37.802470Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9201055",
+    "league": "primeira_liga",
+    "country": "Portugal",
+    "kickoff_utc": "2025-11-22T14:30:00Z",
+    "home": "FC Augsburg",
+    "away": "Hamburger SV",
+    "markets": {
+      "btts": {
+        "yes": 3.55,
+        "no": 1.25,
+        "margin": 8.169
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:38.077240Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9201053",
+    "league": "primeira_liga",
+    "country": "Portugal",
+    "kickoff_utc": "2025-11-22T14:30:00Z",
+    "home": "VfL Wolfsburg",
+    "away": "Bayer Leverkusen",
+    "markets": {
+      "btts": {
+        "yes": 1.52,
+        "no": 2.37,
+        "margin": 7.984
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:39.556854Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "8766647",
+    "league": "primeira_liga",
+    "country": "Portugal",
+    "kickoff_utc": "2025-11-22T15:30:00Z",
+    "home": "VfL 1899 Osnabruck",
+    "away": "FC Ingolstadt 04",
+    "markets": {
+      "btts": {
+        "yes": 2.9,
+        "no": 1.36,
+        "margin": 8.012
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:39.850322Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9201057",
+    "league": "primeira_liga",
+    "country": "Portugal",
+    "kickoff_utc": "2025-11-22T17:30:00Z",
+    "home": "1. FC Koln",
+    "away": "Eintracht Frankfurt",
+    "markets": {
+      "btts": {
+        "yes": 3.3,
+        "no": 1.29,
+        "margin": 7.822
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:40.129307Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9201061",
+    "league": "primeira_liga",
+    "country": "Portugal",
+    "kickoff_utc": "2025-11-22T19:30:00Z",
+    "home": "SV Darmstadt 1898",
+    "away": "SpVgg Greuther Fürth",
+    "markets": {
+      "btts": {
+        "yes": 2.85,
+        "no": 1.37,
+        "margin": 8.08
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:40.407780Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9210953",
+    "league": "primeira_liga",
+    "country": "Portugal",
+    "kickoff_utc": "2025-11-23T12:30:00Z",
+    "home": "1. FC Kaiserslautern",
+    "away": "Holstein Kiel",
+    "markets": {
+      "btts": {
+        "yes": 3.0,
+        "no": 1.34,
+        "margin": 7.96
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:40.685570Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9480055",
+    "league": "primeira_liga",
+    "country": "Portugal",
+    "kickoff_utc": "2025-11-23T12:30:00Z",
+    "home": "1. FC Nuremberg",
+    "away": "Arminia Bielefeld",
+    "markets": {
+      "btts": {
+        "yes": 2.75,
+        "no": 1.4,
+        "margin": 7.792
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:40.936641Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9210954",
+    "league": "primeira_liga",
+    "country": "Portugal",
+    "kickoff_utc": "2025-11-23T12:30:00Z",
+    "home": "Karlsruher SC",
+    "away": "SV 07 Elversberg",
+    "markets": {
+      "btts": {
+        "yes": 3.45,
+        "no": 1.27,
+        "margin": 7.726
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:41.196953Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9210952",
+    "league": "primeira_liga",
+    "country": "Portugal",
+    "kickoff_utc": "2025-11-23T14:30:00Z",
+    "home": "RB Leipzig",
+    "away": "Werder Bremen",
+    "markets": {
+      "btts": {
+        "yes": 1.45,
+        "no": 2.55,
+        "margin": 8.181
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:41.477897Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "8766653",
+    "league": "primeira_liga",
+    "country": "Portugal",
+    "kickoff_utc": "2025-11-23T15:30:00Z",
+    "home": "FC Erzgebirge Aue",
+    "away": "VfB Stuttgart II",
+    "markets": {
+      "btts": {
+        "yes": 1.51,
+        "no": 2.39,
+        "margin": 8.066
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:41.741110Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9210951",
+    "league": "primeira_liga",
+    "country": "Portugal",
+    "kickoff_utc": "2025-11-23T16:30:00Z",
+    "home": "FC St. Pauli",
+    "away": "Union Berlin",
+    "markets": {
+      "btts": {
+        "yes": 4.5,
+        "no": 1.17,
+        "margin": 7.692
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:42.020003Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "8766645",
+    "league": "primeira_liga",
+    "country": "Portugal",
+    "kickoff_utc": "2025-11-23T18:30:00Z",
+    "home": "Rot-Weiss Essen",
+    "away": "Energie Cottbus",
+    "markets": {
+      "btts": {
+        "yes": 2.8,
+        "no": 1.39,
+        "margin": 7.657
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:42.292394Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9261605",
+    "league": "primeira_liga",
+    "country": "Portugal",
+    "kickoff_utc": "2025-11-28T19:30:00Z",
+    "home": "Borussia Mönchengladbach",
+    "away": "RB Leipzig",
+    "markets": {
+      "btts": {
+        "yes": 3.1,
+        "no": 1.32,
+        "margin": 8.016
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:42.550153Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9271551",
+    "league": "primeira_liga",
+    "country": "Portugal",
+    "kickoff_utc": "2025-11-29T14:30:00Z",
+    "home": "Bayern München",
+    "away": "FC St. Pauli",
+    "markets": {
+      "btts": {
+        "yes": 4.25,
+        "no": 1.18,
+        "margin": 8.275
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:42.798117Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9332341",
+    "league": "primeira_liga",
+    "country": "Portugal",
+    "kickoff_utc": "2025-11-29T14:30:00Z",
+    "home": "TSG Hoffenheim",
+    "away": "FC Augsburg",
+    "markets": {
+      "btts": {
+        "yes": 1.59,
+        "no": 2.21,
+        "margin": 8.142
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:43.066088Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9271555",
+    "league": "primeira_liga",
+    "country": "Portugal",
+    "kickoff_utc": "2025-11-29T14:30:00Z",
+    "home": "Union Berlin",
+    "away": "1. FC Heidenheim 1846",
+    "markets": {
+      "btts": {
+        "yes": 3.45,
+        "no": 1.27,
+        "margin": 7.726
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:43.328861Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9271552",
+    "league": "primeira_liga",
+    "country": "Portugal",
+    "kickoff_utc": "2025-11-29T14:30:00Z",
+    "home": "Werder Bremen",
+    "away": "1. FC Koln",
+    "markets": {
+      "btts": {
+        "yes": 2.65,
+        "no": 1.42,
+        "margin": 8.158
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:43.575379Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9271553",
+    "league": "primeira_liga",
+    "country": "Portugal",
+    "kickoff_utc": "2025-11-29T17:30:00Z",
+    "home": "Bayer Leverkusen",
+    "away": "Borussia Dortmund",
+    "markets": {
+      "btts": {
+        "yes": 2.65,
+        "no": 1.42,
+        "margin": 8.158
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:43.845537Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9483791",
+    "league": "primeira_liga",
+    "country": "Portugal",
+    "kickoff_utc": "2025-11-30T14:30:00Z",
+    "home": "Hamburger SV",
+    "away": "VfB Stuttgart",
+    "markets": {
+      "btts": {
+        "yes": 1.46,
+        "no": 2.52,
+        "margin": 8.176
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:44.105113Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9281126",
+    "league": "primeira_liga",
+    "country": "Portugal",
+    "kickoff_utc": "2025-11-30T16:30:00Z",
+    "home": "Eintracht Frankfurt",
+    "away": "VfL Wolfsburg",
+    "markets": {
+      "btts": {
+        "yes": 1.5,
+        "no": 2.43,
+        "margin": 7.819
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:44.396039Z",
+    "is_live": false
+  },
+  {
+    "provider": "toto",
+    "provider_event_id": "9281127",
+    "league": "primeira_liga",
+    "country": "Portugal",
+    "kickoff_utc": "2025-11-30T18:30:00Z",
+    "home": "SC Freiburg",
+    "away": "FSV Mainz",
+    "markets": {
+      "btts": {
+        "yes": 3.35,
+        "no": 1.28,
+        "margin": 7.976
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:44.655525Z",
+    "is_live": false
+  }
+]

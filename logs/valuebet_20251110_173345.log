@@ -1,0 +1,48 @@
+2025-11-10 17:33:45 - root - INFO - Logging initialized - Session: valuebet_20251110_173345
+2025-11-10 17:33:45 - root - INFO - Main log: logs\valuebet_20251110_173345.log
+2025-11-10 17:33:45 - root - INFO - Edge tracking log: logs\edge_tracking_20251110_173345.log
+2025-11-10 17:33:45 - __main__ - INFO - ====================================================================================================
+2025-11-10 17:33:45 - __main__ - INFO - VALUE BETTING SYSTEM - Production Version
+2025-11-10 17:33:45 - __main__ - INFO - ====================================================================================================
+2025-11-10 17:33:45 - __main__ - INFO - Scraping 11 leagues: eredivisie, keuken_kampioen_divisie, premier_league, championship, bundesliga, 2_bundesliga, la_liga, serie_a, ligue_1, jupiler_pro_league, primeira_liga
+2025-11-10 17:33:45 - __main__ - INFO - Minimum edge threshold: 2.5%
+2025-11-10 17:33:45 - __main__ - INFO - Bankroll: €1000.0
+2025-11-10 17:33:45 - __main__ - INFO - 
+📊 Starting data collection from providers...
+2025-11-10 17:33:45 - __main__ - WARNING - ⚠️  Pinnacle API appears to be offline or blocked
+2025-11-10 17:33:46 - scrapers.jacks - INFO - Jacks: Fetched 0 events for eredivisie
+2025-11-10 17:33:46 - scrapers.jacks - INFO - Jacks: Fetched 1 events for keuken_kampioen_divisie
+2025-11-10 17:33:46 - scrapers.jacks - INFO - Jacks: Fetched 20 events for premier_league
+2025-11-10 17:33:46 - scrapers.pinnacle - WARNING - [Pinnacle] League 'premier_league' has no configured Arcadia ID.
+2025-11-10 17:33:46 - scrapers.pinnacle - WARNING - [Pinnacle] League 'championship' has no configured Arcadia ID.
+2025-11-10 17:33:46 - scrapers.pinnacle - WARNING - [Pinnacle] League 'bundesliga' has no configured Arcadia ID.
+2025-11-10 17:33:46 - scrapers.pinnacle - WARNING - [Pinnacle] League '2_bundesliga' has no configured Arcadia ID.
+2025-11-10 17:33:46 - scrapers.pinnacle - WARNING - [Pinnacle] League 'la_liga' has no configured Arcadia ID.
+2025-11-10 17:33:46 - scrapers.pinnacle - WARNING - [Pinnacle] League 'serie_a' has no configured Arcadia ID.
+2025-11-10 17:33:46 - scrapers.pinnacle - WARNING - [Pinnacle] League 'ligue_1' has no configured Arcadia ID.
+2025-11-10 17:33:46 - scrapers.pinnacle - WARNING - [Pinnacle] League 'jupiler_pro_league' has no configured Arcadia ID.
+2025-11-10 17:33:46 - scrapers.pinnacle - WARNING - [Pinnacle] League 'primeira_liga' has no configured Arcadia ID.
+2025-11-10 17:33:46 - scrapers.jacks - INFO - Jacks: Fetched 18 events for bundesliga
+2025-11-10 17:33:47 - scrapers.jacks - INFO - Jacks: Fetched 10 events for la_liga
+2025-11-10 17:33:47 - scrapers.jacks - INFO - Jacks: Fetched 19 events for serie_a
+2025-11-10 17:33:47 - scrapers.jacks - INFO - Jacks: Fetched 9 events for ligue_1
+2025-11-10 17:33:47 - scrapers.jacks - INFO - Jacks: Fetched 0 events for jupiler_pro_league
+2025-11-10 17:33:47 - scrapers.jacks - INFO - Jacks: Fetched 0 events for primeira_liga
+2025-11-10 17:33:51 - scrapers.toto - INFO - TOTO: Fetched 18 events for eredivisie
+2025-11-10 17:33:52 - scrapers.toto - INFO - TOTO: Fetched 2 events for keuken_kampioen_divisie
+2025-11-10 17:33:57 - scrapers.toto - INFO - TOTO: Fetched 12 events for premier_league
+2025-11-10 17:34:07 - scrapers.toto - INFO - TOTO: Fetched 35 events for 2_bundesliga
+2025-11-10 17:34:08 - scrapers.toto - INFO - TOTO: Fetched 0 events for jupiler_pro_league
+2025-11-10 17:34:16 - scrapers.toto - INFO - TOTO: Fetched 28 events for primeira_liga
+2025-11-10 17:34:16 - __main__ - INFO - 
+💾 Saving raw data...
+2025-11-10 17:34:16 - __main__ - INFO - 
+====================================================================================================
+2025-11-10 17:34:16 - __main__ - INFO - DATA COLLECTION SUMMARY
+2025-11-10 17:34:16 - __main__ - INFO - ====================================================================================================
+2025-11-10 17:34:16 - __main__ - INFO - Pinnacle: 0 events
+2025-11-10 17:34:16 - __main__ - INFO - Jack's:   77 events
+2025-11-10 17:34:16 - __main__ - INFO - TOTO:     95 events
+2025-11-10 17:34:16 - __main__ - INFO - Duration: 31.5 seconds
+2025-11-10 17:34:16 - __main__ - ERROR - 
+❌ No Pinnacle events available - cannot calculate value bets (need anchor)

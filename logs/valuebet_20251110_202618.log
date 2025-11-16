@@ -1,0 +1,47 @@
+2025-11-10 20:26:18 - root - INFO - Logging initialized - Session: valuebet_20251110_202618
+2025-11-10 20:26:18 - root - INFO - Main log: logs\valuebet_20251110_202618.log
+2025-11-10 20:26:18 - root - INFO - Edge tracking log: logs\edge_tracking_20251110_202618.log
+2025-11-10 20:26:18 - __main__ - INFO - ====================================================================================================
+2025-11-10 20:26:18 - __main__ - INFO - VALUE BETTING SYSTEM - Production Version
+2025-11-10 20:26:18 - __main__ - INFO - ====================================================================================================
+2025-11-10 20:26:18 - __main__ - INFO - Scraping 11 leagues: eredivisie, keuken_kampioen_divisie, premier_league, championship, bundesliga, 2_bundesliga, la_liga, serie_a, ligue_1, jupiler_pro_league, primeira_liga
+2025-11-10 20:26:18 - __main__ - INFO - Minimum edge threshold: 2.5%
+2025-11-10 20:26:18 - __main__ - INFO - Bankroll: €1000.0
+2025-11-10 20:26:18 - __main__ - INFO - 
+📊 Starting data collection from providers...
+2025-11-10 20:26:19 - scrapers.jacks - INFO - Jacks: Fetched 0 events for eredivisie
+2025-11-10 20:26:19 - scrapers.jacks - INFO - Jacks: Fetched 1 events for keuken_kampioen_divisie
+2025-11-10 20:26:19 - scrapers.jacks - INFO - Jacks: Fetched 20 events for premier_league
+2025-11-10 20:26:19 - scrapers.pinnacle - WARNING - [Pinnacle] No Arcadia ID for premier_league
+2025-11-10 20:26:19 - scrapers.pinnacle - WARNING - [Pinnacle] No Arcadia ID for championship
+2025-11-10 20:26:19 - scrapers.pinnacle - WARNING - [Pinnacle] No Arcadia ID for bundesliga
+2025-11-10 20:26:19 - scrapers.pinnacle - WARNING - [Pinnacle] No Arcadia ID for 2_bundesliga
+2025-11-10 20:26:19 - scrapers.pinnacle - WARNING - [Pinnacle] No Arcadia ID for la_liga
+2025-11-10 20:26:19 - scrapers.pinnacle - WARNING - [Pinnacle] No Arcadia ID for serie_a
+2025-11-10 20:26:19 - scrapers.pinnacle - WARNING - [Pinnacle] No Arcadia ID for ligue_1
+2025-11-10 20:26:19 - scrapers.pinnacle - WARNING - [Pinnacle] No Arcadia ID for jupiler_pro_league
+2025-11-10 20:26:19 - scrapers.pinnacle - WARNING - [Pinnacle] No Arcadia ID for primeira_liga
+2025-11-10 20:26:19 - scrapers.jacks - INFO - Jacks: Fetched 18 events for bundesliga
+2025-11-10 20:26:19 - scrapers.jacks - INFO - Jacks: Fetched 10 events for la_liga
+2025-11-10 20:26:19 - scrapers.jacks - INFO - Jacks: Fetched 19 events for serie_a
+2025-11-10 20:26:19 - scrapers.jacks - INFO - Jacks: Fetched 9 events for ligue_1
+2025-11-10 20:26:19 - scrapers.jacks - INFO - Jacks: Fetched 0 events for jupiler_pro_league
+2025-11-10 20:26:20 - scrapers.jacks - INFO - Jacks: Fetched 0 events for primeira_liga
+2025-11-10 20:26:24 - scrapers.toto - INFO - TOTO: Fetched 18 events for eredivisie
+2025-11-10 20:26:25 - scrapers.toto - INFO - TOTO: Fetched 2 events for keuken_kampioen_divisie
+2025-11-10 20:26:33 - scrapers.toto - INFO - TOTO: Fetched 20 events for premier_league
+2025-11-10 20:26:42 - scrapers.toto - INFO - TOTO: Fetched 35 events for 2_bundesliga
+2025-11-10 20:26:43 - scrapers.toto - INFO - TOTO: Fetched 0 events for jupiler_pro_league
+2025-11-10 20:26:52 - scrapers.toto - INFO - TOTO: Fetched 27 events for primeira_liga
+2025-11-10 20:26:52 - __main__ - INFO - 
+💾 Saving raw data...
+2025-11-10 20:26:52 - __main__ - INFO - 
+====================================================================================================
+2025-11-10 20:26:52 - __main__ - INFO - DATA COLLECTION SUMMARY
+2025-11-10 20:26:52 - __main__ - INFO - ====================================================================================================
+2025-11-10 20:26:52 - __main__ - INFO - Pinnacle: 0 events
+2025-11-10 20:26:52 - __main__ - INFO - Jack's:   77 events
+2025-11-10 20:26:52 - __main__ - INFO - TOTO:     102 events
+2025-11-10 20:26:52 - __main__ - INFO - Duration: 33.2 seconds
+2025-11-10 20:26:52 - __main__ - ERROR - 
+❌ No Pinnacle events available - cannot calculate value bets (need anchor)

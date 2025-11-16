@@ -1,0 +1,123 @@
+2025-11-16 18:31:03 - root - INFO - Logging initialized - Session: valuebet_20251116_183103
+2025-11-16 18:31:03 - root - INFO - Main log: logs\valuebet_20251116_183103.log
+2025-11-16 18:31:03 - root - INFO - Edge tracking log: logs\edge_tracking_20251116_183103.log
+2025-11-16 18:31:03 - __main__ - INFO - ====================================================================================================
+2025-11-16 18:31:03 - __main__ - INFO - VALUE BETTING SYSTEM - Production Version
+2025-11-16 18:31:03 - __main__ - INFO - ====================================================================================================
+2025-11-16 18:31:03 - __main__ - INFO - Scraping 11 leagues: eredivisie, keuken_kampioen_divisie, premier_league, championship, bundesliga, 2_bundesliga, la_liga, serie_a, ligue_1, jupiler_pro_league, primeira_liga
+2025-11-16 18:31:03 - __main__ - INFO - Minimum edge threshold: 2.5%
+2025-11-16 18:31:03 - __main__ - INFO - Bankroll: €1000.0
+2025-11-16 18:31:03 - __main__ - INFO - 
+📊 Starting data collection from providers...
+2025-11-16 18:31:03 - scrapers.pinnacle - INFO - [Pinnacle] test_connection -> True
+2025-11-16 18:31:04 - scrapers.pinnacle - INFO - [Pinnacle] Found 2652 total leagues (all=true)
+2025-11-16 18:31:04 - scrapers.pinnacle - INFO - [Pinnacle] Matched 'eredivisie' to 'Netherlands - Eredivisie' (id=1928)
+2025-11-16 18:31:04 - scrapers.pinnacle - INFO - [Pinnacle] Fetching league 'eredivisie' (id=1928)
+2025-11-16 18:31:04 - scrapers.pinnacle - INFO - [Pinnacle] League 1928 (eredivisie): 9 matchups
+2025-11-16 18:31:04 - scrapers.pinnacle - INFO - [Pinnacle] League 'eredivisie': requesting markets for 9 parents
+2025-11-16 18:31:04 - scrapers.jacks - INFO - Jacks: Fetched 18 events for eredivisie
+2025-11-16 18:31:04 - scrapers.jacks - INFO - Jacks: Fetched 10 events for keuken_kampioen_divisie
+2025-11-16 18:31:04 - scrapers.jacks - INFO - Jacks: Fetched 20 events for premier_league
+2025-11-16 18:31:04 - scrapers.pinnacle - INFO - [Pinnacle] League 'eredivisie': matchups=9, with_markets=9, emitted=0
+2025-11-16 18:31:04 - scrapers.pinnacle - INFO - [Pinnacle] Matched 'keuken_kampioen_divisie' to 'Netherlands - Eerste Divisie' (id=1929)
+2025-11-16 18:31:04 - scrapers.pinnacle - INFO - [Pinnacle] Fetching league 'keuken_kampioen_divisie' (id=1929)
+2025-11-16 18:31:04 - scrapers.pinnacle - INFO - [Pinnacle] League 1929 (keuken_kampioen_divisie): 9 matchups
+2025-11-16 18:31:04 - scrapers.pinnacle - INFO - [Pinnacle] League 'keuken_kampioen_divisie': requesting markets for 9 parents
+2025-11-16 18:31:04 - scrapers.jacks - INFO - Jacks: Fetched 18 events for bundesliga
+2025-11-16 18:31:04 - scrapers.jacks - INFO - Jacks: Fetched 10 events for la_liga
+2025-11-16 18:31:04 - scrapers.jacks - INFO - Jacks: Fetched 19 events for serie_a
+2025-11-16 18:31:04 - scrapers.pinnacle - INFO - [Pinnacle] League 'keuken_kampioen_divisie': matchups=9, with_markets=9, emitted=0
+2025-11-16 18:31:04 - scrapers.pinnacle - INFO - [Pinnacle] Matched 'premier_league' to 'England - Premier League' (id=1980)
+2025-11-16 18:31:04 - scrapers.pinnacle - INFO - [Pinnacle] Fetching league 'premier_league' (id=1980)
+2025-11-16 18:31:04 - scrapers.jacks - INFO - Jacks: Fetched 18 events for ligue_1
+2025-11-16 18:31:04 - scrapers.pinnacle - INFO - [Pinnacle] League 1980 (premier_league): 314 matchups
+2025-11-16 18:31:04 - scrapers.pinnacle - INFO - [Pinnacle] League 'premier_league': requesting markets for 39 parents
+2025-11-16 18:31:04 - scrapers.jacks - INFO - Jacks: Fetched 8 events for jupiler_pro_league
+2025-11-16 18:31:04 - scrapers.jacks - INFO - Jacks: Fetched 0 events for primeira_liga
+2025-11-16 18:31:04 - scrapers.pinnacle - INFO - [Pinnacle] League 'premier_league': matchups=314, with_markets=39, emitted=5
+2025-11-16 18:31:04 - scrapers.pinnacle - INFO - [Pinnacle] Matched 'championship' to 'England - Championship' (id=1977)
+2025-11-16 18:31:04 - scrapers.pinnacle - INFO - [Pinnacle] Fetching league 'championship' (id=1977)
+2025-11-16 18:31:05 - scrapers.pinnacle - INFO - [Pinnacle] League 1977 (championship): 13 matchups
+2025-11-16 18:31:05 - scrapers.pinnacle - INFO - [Pinnacle] League 'championship': requesting markets for 13 parents
+2025-11-16 18:31:05 - scrapers.pinnacle - INFO - [Pinnacle] League 'championship': matchups=13, with_markets=13, emitted=0
+2025-11-16 18:31:05 - scrapers.pinnacle - INFO - [Pinnacle] Matched 'bundesliga' to 'Germany - Bundesliga' (id=1842)
+2025-11-16 18:31:05 - scrapers.pinnacle - INFO - [Pinnacle] Fetching league 'bundesliga' (id=1842)
+2025-11-16 18:31:05 - scrapers.pinnacle - INFO - [Pinnacle] League 1842 (bundesliga): 251 matchups
+2025-11-16 18:31:05 - scrapers.pinnacle - INFO - [Pinnacle] League 'bundesliga': requesting markets for 19 parents
+2025-11-16 18:31:05 - scrapers.pinnacle - INFO - [Pinnacle] League 'bundesliga': matchups=251, with_markets=19, emitted=5
+2025-11-16 18:31:05 - scrapers.pinnacle - WARNING - [Pinnacle] Could not find league ID for '2_bundesliga'. Available leagues logged below.
+2025-11-16 18:31:05 - scrapers.pinnacle - WARNING - [Pinnacle] No Arcadia ID found for '2_bundesliga'
+2025-11-16 18:31:05 - scrapers.pinnacle - INFO - [Pinnacle] Matched 'la_liga' to 'Spain - La Liga' (id=2196)
+2025-11-16 18:31:05 - scrapers.pinnacle - INFO - [Pinnacle] Fetching league 'la_liga' (id=2196)
+2025-11-16 18:31:05 - scrapers.pinnacle - INFO - [Pinnacle] League 2196 (la_liga): 157 matchups
+2025-11-16 18:31:05 - scrapers.pinnacle - INFO - [Pinnacle] League 'la_liga': requesting markets for 21 parents
+2025-11-16 18:31:05 - scrapers.pinnacle - INFO - [Pinnacle] League 'la_liga': matchups=157, with_markets=21, emitted=3
+2025-11-16 18:31:05 - scrapers.pinnacle - INFO - [Pinnacle] Matched 'serie_a' to 'Italy - Serie A' (id=2436)
+2025-11-16 18:31:05 - scrapers.pinnacle - INFO - [Pinnacle] Fetching league 'serie_a' (id=2436)
+2025-11-16 18:31:05 - scrapers.pinnacle - INFO - [Pinnacle] League 2436 (serie_a): 66 matchups
+2025-11-16 18:31:05 - scrapers.pinnacle - INFO - [Pinnacle] League 'serie_a': requesting markets for 21 parents
+2025-11-16 18:31:05 - scrapers.pinnacle - INFO - [Pinnacle] League 'serie_a': matchups=66, with_markets=21, emitted=1
+2025-11-16 18:31:05 - scrapers.pinnacle - INFO - [Pinnacle] Matched 'ligue_1' to 'France - Ligue 1' (id=2036)
+2025-11-16 18:31:05 - scrapers.pinnacle - INFO - [Pinnacle] Fetching league 'ligue_1' (id=2036)
+2025-11-16 18:31:05 - scrapers.pinnacle - INFO - [Pinnacle] League 2036 (ligue_1): 65 matchups
+2025-11-16 18:31:05 - scrapers.pinnacle - INFO - [Pinnacle] League 'ligue_1': requesting markets for 19 parents
+2025-11-16 18:31:06 - scrapers.pinnacle - INFO - [Pinnacle] League 'ligue_1': matchups=65, with_markets=19, emitted=1
+2025-11-16 18:31:06 - scrapers.pinnacle - WARNING - [Pinnacle] Could not find league ID for 'jupiler_pro_league'. Available leagues logged below.
+2025-11-16 18:31:06 - scrapers.pinnacle - WARNING - [Pinnacle] No Arcadia ID found for 'jupiler_pro_league'
+2025-11-16 18:31:06 - scrapers.pinnacle - INFO - [Pinnacle] Matched 'primeira_liga' to 'Portugal - Primeira Liga' (id=2386)
+2025-11-16 18:31:06 - scrapers.pinnacle - INFO - [Pinnacle] Fetching league 'primeira_liga' (id=2386)
+2025-11-16 18:31:06 - scrapers.pinnacle - INFO - [Pinnacle] League 2386 (primeira_liga): 8 matchups
+2025-11-16 18:31:06 - scrapers.pinnacle - INFO - [Pinnacle] League 'primeira_liga': requesting markets for 8 parents
+2025-11-16 18:31:06 - scrapers.pinnacle - INFO - [Pinnacle] League 'primeira_liga': matchups=8, with_markets=8, emitted=0
+2025-11-16 18:31:10 - scrapers.toto - INFO - TOTO: Fetched 18 events for eredivisie
+2025-11-16 18:31:13 - scrapers.toto - INFO - TOTO: Fetched 9 events for keuken_kampioen_divisie
+2025-11-16 18:31:21 - scrapers.toto - INFO - TOTO: Fetched 24 events for premier_league
+2025-11-16 18:31:33 - scrapers.toto - INFO - TOTO: Fetched 40 events for 2_bundesliga
+2025-11-16 18:31:33 - scrapers.toto - INFO - TOTO: Fetched 0 events for jupiler_pro_league
+2025-11-16 18:31:45 - scrapers.toto - INFO - TOTO: Fetched 36 events for primeira_liga
+2025-11-16 18:31:45 - __main__ - INFO - 
+💾 Saving raw data...
+2025-11-16 18:31:45 - __main__ - INFO - 
+====================================================================================================
+2025-11-16 18:31:45 - __main__ - INFO - DATA COLLECTION SUMMARY
+2025-11-16 18:31:45 - __main__ - INFO - ====================================================================================================
+2025-11-16 18:31:45 - __main__ - INFO - Pinnacle: 15 events
+2025-11-16 18:31:45 - __main__ - INFO - Jack's:   121 events
+2025-11-16 18:31:45 - __main__ - INFO - TOTO:     127 events
+2025-11-16 18:31:45 - __main__ - INFO - Duration: 42.2 seconds
+2025-11-16 18:31:45 - __main__ - INFO - 
+💰 Analyzing value opportunities...
+2025-11-16 18:31:45 - matching.event_matcher - INFO - Matched 15 events between providers
+2025-11-16 18:31:45 - analysis.value_analyzer - INFO - Found 15 matches for jacks
+2025-11-16 18:31:45 - matching.event_matcher - INFO - Matched 0 events between providers
+2025-11-16 18:31:45 - analysis.value_analyzer - INFO - Found 0 matches for toto
+2025-11-16 18:31:45 - analysis.value_analyzer - INFO - Found 15 value bets above 2.5% edge threshold
+2025-11-16 18:31:45 - __main__ - INFO - 
+✅ Found 15 value bets above 2.5% edge
+2025-11-16 18:31:45 - __main__ - INFO - 
+====================================================================================================
+2025-11-16 18:31:45 - __main__ - INFO - PORTFOLIO STATISTICS
+2025-11-16 18:31:45 - __main__ - INFO - ====================================================================================================
+2025-11-16 18:31:45 - __main__ - INFO - Total Opportunities: 15
+2025-11-16 18:31:45 - __main__ - INFO - Average Edge: 50.85%
+2025-11-16 18:31:45 - __main__ - INFO - Total Recommended Stake: €704.27
+2025-11-16 18:31:45 - __main__ - INFO - Total Expected Value: €358.05
+2025-11-16 18:31:45 - __main__ - INFO - Expected ROI: 50.84%
+2025-11-16 18:31:45 - __main__ - INFO - 
+====================================================================================================
+2025-11-16 18:31:45 - __main__ - INFO - 📁 Output saved to:
+2025-11-16 18:31:45 - __main__ - INFO -    C:\Users\ilija\OneDrive\Bureaublad\Arbi\VB_V2\output/
+2025-11-16 18:31:45 - __main__ - INFO -    - pinnacle.json (raw data)
+2025-11-16 18:31:45 - __main__ - INFO -    - jacks.json (raw data)
+2025-11-16 18:31:45 - __main__ - INFO -    - toto.json (raw data)
+2025-11-16 18:31:45 - __main__ - INFO -    - value_bets.json (analysis results)
+2025-11-16 18:31:45 - __main__ - INFO -    - value_bets.csv (Excel-ready)
+2025-11-16 18:31:45 - __main__ - INFO - 
+📊 Logs saved to:
+2025-11-16 18:31:45 - __main__ - INFO -    C:\Users\ilija\OneDrive\Bureaublad\Arbi\VB_V2\logs/
+2025-11-16 18:31:45 - __main__ - INFO -    - valuebet_20251116_183103.log (main log)
+2025-11-16 18:31:45 - __main__ - INFO -    - edge_tracking_20251116_183103.log (edge analysis)
+2025-11-16 18:31:45 - __main__ - INFO -    - performance_20251116_183103.log (performance metrics)
+2025-11-16 18:31:45 - __main__ - INFO - ====================================================================================================
+2025-11-16 18:31:45 - __main__ - INFO - 
+⏱️  Total runtime: 42.2 seconds

@@ -1,0 +1,287 @@
+[
+  {
+    "provider": "pinnacle",
+    "provider_event_id": "1618899360",
+    "league": "premier_league",
+    "country": "Netherlands",
+    "kickoff_utc": "2025-11-22T15:00:00Z",
+    "home": "Wolverhampton",
+    "away": "Crystal Palace",
+    "markets": {
+      "1x2": {
+        "home": 4.19,
+        "away": 2.74,
+        "draw": 2.21,
+        "margin": 5.612
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:04.973268Z",
+    "is_live": false
+  },
+  {
+    "provider": "pinnacle",
+    "provider_event_id": "1618917100",
+    "league": "premier_league",
+    "country": "Netherlands",
+    "kickoff_utc": "2025-11-22T15:00:00Z",
+    "home": "Bournemouth",
+    "away": "West Ham United",
+    "markets": {
+      "1x2": {
+        "home": 1.637,
+        "away": 5.1,
+        "draw": 4.02,
+        "margin": 5.571
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:04.973268Z",
+    "is_live": false
+  },
+  {
+    "provider": "pinnacle",
+    "provider_event_id": "1618917101",
+    "league": "premier_league",
+    "country": "Netherlands",
+    "kickoff_utc": "2025-11-22T15:00:00Z",
+    "home": "Liverpool",
+    "away": "Nottingham Forest",
+    "markets": {
+      "1x2": {
+        "home": 1.901,
+        "away": 6.54,
+        "draw": 2.63,
+        "margin": 5.917
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:04.973268Z",
+    "is_live": false
+  },
+  {
+    "provider": "pinnacle",
+    "provider_event_id": "1618901352",
+    "league": "premier_league",
+    "country": "Netherlands",
+    "kickoff_utc": "2025-11-22T15:00:00Z",
+    "home": "Fulham",
+    "away": "Sunderland",
+    "markets": {
+      "1x2": {
+        "home": 2.72,
+        "away": 4.35,
+        "draw": 2.18,
+        "margin": 5.625
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:04.973268Z",
+    "is_live": false
+  },
+  {
+    "provider": "pinnacle",
+    "provider_event_id": "1618917102",
+    "league": "premier_league",
+    "country": "Netherlands",
+    "kickoff_utc": "2025-11-22T12:30:00Z",
+    "home": "Burnley",
+    "away": "Chelsea",
+    "markets": {
+      "1x2": {
+        "home": 5.84,
+        "away": 1.515,
+        "draw": 4.43,
+        "margin": 5.703
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:04.974266Z",
+    "is_live": false
+  },
+  {
+    "provider": "pinnacle",
+    "provider_event_id": "1618899369",
+    "league": "bundesliga",
+    "country": "Netherlands",
+    "kickoff_utc": "2025-11-21T19:30:00Z",
+    "home": "Mainz 05",
+    "away": "Hoffenheim",
+    "markets": {
+      "1x2": {
+        "home": 2.88,
+        "away": 3.38,
+        "draw": 2.43,
+        "margin": 5.46
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:05.394248Z",
+    "is_live": false
+  },
+  {
+    "provider": "pinnacle",
+    "provider_event_id": "1618917116",
+    "league": "bundesliga",
+    "country": "Netherlands",
+    "kickoff_utc": "2025-11-22T14:30:00Z",
+    "home": "Wolfsburg",
+    "away": "Bayer Leverkusen",
+    "markets": {
+      "1x2": {
+        "home": 3.65,
+        "away": 2.65,
+        "draw": 2.48,
+        "margin": 5.456
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:05.395415Z",
+    "is_live": false
+  },
+  {
+    "provider": "pinnacle",
+    "provider_event_id": "1618917114",
+    "league": "bundesliga",
+    "country": "Netherlands",
+    "kickoff_utc": "2025-11-22T14:30:00Z",
+    "home": "Bayern Munich",
+    "away": "Freiburg",
+    "markets": {
+      "1x2": {
+        "home": 1.498,
+        "away": 10.01,
+        "draw": 3.32,
+        "margin": 6.866
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:05.395415Z",
+    "is_live": false
+  },
+  {
+    "provider": "pinnacle",
+    "provider_event_id": "1618899373",
+    "league": "bundesliga",
+    "country": "Netherlands",
+    "kickoff_utc": "2025-11-22T14:30:00Z",
+    "home": "Heidenheim",
+    "away": "Borussia Monchengladbach",
+    "markets": {
+      "1x2": {
+        "home": 3.52,
+        "away": 2.78,
+        "draw": 2.43,
+        "margin": 5.533
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:05.395415Z",
+    "is_live": false
+  },
+  {
+    "provider": "pinnacle",
+    "provider_event_id": "1618918945",
+    "league": "bundesliga",
+    "country": "Netherlands",
+    "kickoff_utc": "2025-11-22T14:30:00Z",
+    "home": "Borussia Dortmund",
+    "away": "Stuttgart",
+    "markets": {
+      "1x2": {
+        "home": 1.725,
+        "away": 4.3,
+        "draw": 4.13,
+        "margin": 5.44
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:05.395415Z",
+    "is_live": false
+  },
+  {
+    "provider": "pinnacle",
+    "provider_event_id": "1618921190",
+    "league": "la_liga",
+    "country": "Netherlands",
+    "kickoff_utc": "2025-11-22T17:30:00Z",
+    "home": "Osasuna",
+    "away": "Real Sociedad",
+    "markets": {
+      "1x2": {
+        "home": 3.33,
+        "away": 3.6,
+        "draw": 2.09,
+        "margin": 5.655
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:05.622538Z",
+    "is_live": false
+  },
+  {
+    "provider": "pinnacle",
+    "provider_event_id": "1618918948",
+    "league": "la_liga",
+    "country": "Netherlands",
+    "kickoff_utc": "2025-11-22T15:15:00Z",
+    "home": "Barcelona",
+    "away": "Athletic Bilbao",
+    "markets": {
+      "1x2": {
+        "home": 1.943,
+        "away": 6.08,
+        "draw": 2.63,
+        "margin": 5.937
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:05.623742Z",
+    "is_live": false
+  },
+  {
+    "provider": "pinnacle",
+    "provider_event_id": "1618917122",
+    "league": "la_liga",
+    "country": "Netherlands",
+    "kickoff_utc": "2025-11-22T20:00:00Z",
+    "home": "Villarreal",
+    "away": "Mallorca",
+    "markets": {
+      "1x2": {
+        "home": 1.463,
+        "away": 6.47,
+        "draw": 4.56,
+        "margin": 5.738
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:05.623742Z",
+    "is_live": false
+  },
+  {
+    "provider": "pinnacle",
+    "provider_event_id": "1618917115",
+    "league": "serie_a",
+    "country": "Netherlands",
+    "kickoff_utc": "2025-11-23T11:30:00Z",
+    "home": "Hellas Verona",
+    "away": "Parma",
+    "markets": {
+      "1x2": {
+        "home": 3.01,
+        "away": 4.47,
+        "draw": 2.0,
+        "margin": 5.594
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:05.830601Z",
+    "is_live": false
+  },
+  {
+    "provider": "pinnacle",
+    "provider_event_id": "1618917111",
+    "league": "ligue_1",
+    "country": "Netherlands",
+    "kickoff_utc": "2025-11-23T16:15:00Z",
+    "home": "Brest",
+    "away": "Metz",
+    "markets": {
+      "1x2": {
+        "home": 2.34,
+        "away": 4.84,
+        "draw": 2.36,
+        "margin": 5.769
+      }
+    },
+    "scraped_at": "2025-11-16T17:31:06.039157Z",
+    "is_live": false
+  }
+]

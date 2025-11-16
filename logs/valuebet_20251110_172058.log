@@ -1,0 +1,35 @@
+2025-11-10 17:20:58 - root - INFO - Logging initialized - Session: valuebet_20251110_172058
+2025-11-10 17:20:58 - root - INFO - Main log: logs\valuebet_20251110_172058.log
+2025-11-10 17:20:58 - root - INFO - Edge tracking log: logs\edge_tracking_20251110_172058.log
+2025-11-10 17:20:58 - __main__ - INFO - ====================================================================================================
+2025-11-10 17:20:58 - __main__ - INFO - VALUE BETTING SYSTEM - Production Version
+2025-11-10 17:20:58 - __main__ - INFO - ====================================================================================================
+2025-11-10 17:20:58 - __main__ - INFO - Scraping 11 leagues: eredivisie, keuken_kampioen_divisie, premier_league, championship, bundesliga, 2_bundesliga, la_liga, serie_a, ligue_1, jupiler_pro_league, primeira_liga
+2025-11-10 17:20:58 - __main__ - INFO - Minimum edge threshold: 2.5%
+2025-11-10 17:20:58 - __main__ - INFO - Bankroll: €1000.0
+2025-11-10 17:20:58 - __main__ - INFO - 
+📊 Starting data collection from providers...
+2025-11-10 17:20:59 - __main__ - WARNING - ⚠️  Pinnacle API appears to be offline or blocked
+2025-11-10 17:20:59 - __main__ - ERROR - Pinnacle - eredivisie: 'PinnacleScraper' object has no attribute 'fetch_league_events'
+2025-11-10 17:20:59 - __main__ - ERROR - Pinnacle - keuken_kampioen_divisie: 'PinnacleScraper' object has no attribute 'fetch_league_events'
+2025-11-10 17:20:59 - __main__ - ERROR - Pinnacle - premier_league: 'PinnacleScraper' object has no attribute 'fetch_league_events'
+2025-11-10 17:20:59 - __main__ - ERROR - Pinnacle - championship: 'PinnacleScraper' object has no attribute 'fetch_league_events'
+2025-11-10 17:20:59 - __main__ - ERROR - Pinnacle - bundesliga: 'PinnacleScraper' object has no attribute 'fetch_league_events'
+2025-11-10 17:20:59 - __main__ - ERROR - Pinnacle - 2_bundesliga: 'PinnacleScraper' object has no attribute 'fetch_league_events'
+2025-11-10 17:20:59 - __main__ - ERROR - Pinnacle - la_liga: 'PinnacleScraper' object has no attribute 'fetch_league_events'
+2025-11-10 17:20:59 - __main__ - ERROR - Pinnacle - serie_a: 'PinnacleScraper' object has no attribute 'fetch_league_events'
+2025-11-10 17:20:59 - __main__ - ERROR - Pinnacle - ligue_1: 'PinnacleScraper' object has no attribute 'fetch_league_events'
+2025-11-10 17:20:59 - __main__ - ERROR - Pinnacle - jupiler_pro_league: 'PinnacleScraper' object has no attribute 'fetch_league_events'
+2025-11-10 17:20:59 - __main__ - ERROR - Pinnacle - primeira_liga: 'PinnacleScraper' object has no attribute 'fetch_league_events'
+2025-11-10 17:21:00 - scrapers.jacks - INFO - Jacks: Fetched 0 events for eredivisie
+2025-11-10 17:21:00 - scrapers.jacks - INFO - Jacks: Fetched 1 events for keuken_kampioen_divisie
+2025-11-10 17:21:00 - scrapers.jacks - INFO - Jacks: Fetched 20 events for premier_league
+2025-11-10 17:21:00 - scrapers.jacks - INFO - Jacks: Fetched 18 events for bundesliga
+2025-11-10 17:21:00 - scrapers.jacks - INFO - Jacks: Fetched 10 events for la_liga
+2025-11-10 17:21:01 - scrapers.jacks - INFO - Jacks: Fetched 19 events for serie_a
+2025-11-10 17:21:01 - scrapers.jacks - INFO - Jacks: Fetched 9 events for ligue_1
+2025-11-10 17:21:01 - scrapers.jacks - INFO - Jacks: Fetched 0 events for jupiler_pro_league
+2025-11-10 17:21:01 - scrapers.jacks - INFO - Jacks: Fetched 0 events for primeira_liga
+2025-11-10 17:21:05 - scrapers.toto - INFO - TOTO: Fetched 18 events for eredivisie
+2025-11-10 17:21:06 - scrapers.toto - INFO - TOTO: Fetched 2 events for keuken_kampioen_divisie
+2025-11-10 17:21:11 - scrapers.toto - INFO - TOTO: Fetched 10 events for premier_league
